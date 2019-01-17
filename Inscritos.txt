@@ -1,0 +1,4 @@
+0#Carlos#0#Sim#4#5#carlos
+1#Carlos#0#Sim#10##carlos
+2#asd#0#Sim#1010#asd#asd
+3#jorge#0#Não#0#10/06/2017#jorge@email.com
